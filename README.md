@@ -8,7 +8,13 @@
   <a href="https://career.habr.com/tatianazlobina">
   <img src="https://img.shields.io/badge/HabrCareer-6573B7?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
-  </div>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/p3fc8pEjsoGC4/giphy.gif" width="600" height="300"/>
+</div>
+
+    
+
 <!--
 **yopTupoTop/yopTupoTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
