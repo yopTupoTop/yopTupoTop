@@ -11,7 +11,7 @@
 <div>
   Hey There 🌱
 <p>
-  I'm a blochchain developer from Russia 🇷🇺  </br> 
+  I'm a blockchain developer from Russia 🇷🇺  </br> 
   I write smart-contracts for evm-like blockchains and now i'm learning golang 🌟
   </br>
   <div align="center">  
