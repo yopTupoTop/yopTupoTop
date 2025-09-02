@@ -12,7 +12,7 @@
   Hey There 🌱
 <p>
   I'm a blockchain developer from Russia 🇷🇺  </br> 
-  I write smart-contracts for evm-like blockchains and now i'm learning golang 🌟
+  I write smart-contracts for evm-like blockchains and Solana, frontend with React and a little bit backend 🌟
   </br>
 </p>
 </div>
